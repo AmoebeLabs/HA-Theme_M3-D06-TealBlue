@@ -1,5 +1,5 @@
 #
-# Theme     : m3-04-tealblue.yaml
+# Theme     : m3-d04-tealblue.yaml
 # Project   : Home Assistant
 # Repository: https://github.com/AmoebeLabs/HA-Theme_M3-06-TealBlue
 #
@@ -16,7 +16,7 @@
 #   
 ###############################################################################
 #
-M3-06-TealBlue:
+M3-D06-TealBlue:
   # Colors generated via Material Design 3 (Material You) DSP export of figma
   #
   # --------------------------------------------------------------------------
@@ -985,7 +985,7 @@ M3-06-TealBlue:
   primary-text-color: var(--theme-sys-ha-primary-text-color)
   secondary-text-color: var(--theme-sys-ha-secondary-text-color)
   text-primary-color: var(--theme-text-primary-color-on-dark)
-  text-light-primary-color:  var(--theme-sys-ha-primary-text-color)
+  # text-light-primary-color:  var(--theme-sys-ha-primary-text-color)
   disabled-text-color: var(--theme-sys-ha-disabled-text-color)
 
   # main interface colors
